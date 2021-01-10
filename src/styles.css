@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  height: 100vh;
+  background-image: url(assets/images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+
+  font-family: "Luckiest Guy", cursive;
+  color: white;
+}
